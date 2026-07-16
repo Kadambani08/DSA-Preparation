@@ -7,6 +7,7 @@ My DSA and Leetcode solutions
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kadambani08/DSA-Preparation/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kadambani08/DSA-Preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kadambani08/DSA-Preparation/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
@@ -15,5 +16,6 @@ My DSA and Leetcode solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Kadambani08/DSA-Preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Kadambani08/DSA-Preparation/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
