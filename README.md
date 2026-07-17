@@ -18,10 +18,15 @@ My DSA and Leetcode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kadambani08/DSA-Preparation/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Kadambani08/DSA-Preparation/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kadambani08/DSA-Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kadambani08/DSA-Preparation/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kadambani08/DSA-Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/Kadambani08/DSA-Preparation/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
