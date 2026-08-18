@@ -20,6 +20,7 @@ My DSA and Leetcode solutions
 | [0001-two-sum](https://github.com/Kadambani08/DSA-Preparation/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Kadambani08/DSA-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kadambani08/DSA-Preparation/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Kadambani08/DSA-Preparation/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -38,6 +39,7 @@ My DSA and Leetcode solutions
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Kadambani08/DSA-Preparation/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/Kadambani08/DSA-Preparation/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kadambani08/DSA-Preparation/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
@@ -48,6 +50,7 @@ My DSA and Leetcode solutions
 | ------- |
 | [0015-3sum](https://github.com/Kadambani08/DSA-Preparation/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Kadambani08/DSA-Preparation/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Kadambani08/DSA-Preparation/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
