@@ -14,6 +14,7 @@ My DSA and Leetcode solutions
 | [0217-contains-duplicate](https://github.com/Kadambani08/DSA-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kadambani08/DSA-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Kadambani08/DSA-Preparation/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Kadambani08/DSA-Preparation/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@ My DSA and Leetcode solutions
 | [0217-contains-duplicate](https://github.com/Kadambani08/DSA-Preparation/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Kadambani08/DSA-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Kadambani08/DSA-Preparation/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Kadambani08/DSA-Preparation/tree/master/0349-intersection-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,10 +33,12 @@ My DSA and Leetcode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kadambani08/DSA-Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Kadambani08/DSA-Preparation/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Kadambani08/DSA-Preparation/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Kadambani08/DSA-Preparation/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kadambani08/DSA-Preparation/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/Kadambani08/DSA-Preparation/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -51,6 +55,7 @@ My DSA and Leetcode solutions
 | [0015-3sum](https://github.com/Kadambani08/DSA-Preparation/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/Kadambani08/DSA-Preparation/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kadambani08/DSA-Preparation/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/Kadambani08/DSA-Preparation/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
