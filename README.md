@@ -23,6 +23,7 @@ My DSA and Leetcode solutions
 | [0219-contains-duplicate-ii](https://github.com/Kadambani08/DSA-Preparation/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Kadambani08/DSA-Preparation/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Kadambani08/DSA-Preparation/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Kadambani08/DSA-Preparation/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kadambani08/DSA-Preparation/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -46,6 +47,7 @@ My DSA and Leetcode solutions
 | [0125-valid-palindrome](https://github.com/Kadambani08/DSA-Preparation/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Kadambani08/DSA-Preparation/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kadambani08/DSA-Preparation/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Kadambani08/DSA-Preparation/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kadambani08/DSA-Preparation/tree/master/0387-first-unique-character-in-a-string) |
 ## Greedy
 |  |
@@ -73,5 +75,6 @@ My DSA and Leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Kadambani08/DSA-Preparation/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kadambani08/DSA-Preparation/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
