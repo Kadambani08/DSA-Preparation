@@ -41,4 +41,8 @@ My DSA and Leetcode solutions
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Kadambani08/DSA-Preparation/tree/master/0015-3sum) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Kadambani08/DSA-Preparation/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
