@@ -77,4 +77,8 @@ My DSA and Leetcode solutions
 | ------- |
 | [0383-ransom-note](https://github.com/Kadambani08/DSA-Preparation/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kadambani08/DSA-Preparation/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/Kadambani08/DSA-Preparation/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
