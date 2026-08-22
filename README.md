@@ -80,5 +80,6 @@ My DSA and Leetcode solutions
 ## Database
 |  |
 | ------- |
+| [1148-article-views-i](https://github.com/Kadambani08/DSA-Preparation/tree/master/1148-article-views-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kadambani08/DSA-Preparation/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
